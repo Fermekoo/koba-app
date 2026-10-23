@@ -1,3 +1,3 @@
-module github.com/fermeko/koba-app
+module github.com/Fermekoo/koba-app
 
 go 1.22
